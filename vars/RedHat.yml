@@ -4,5 +4,6 @@
 nomad_os_packages:
   - curl
   - git
-  - libselinux-python
+  - python3-libselinux
   - unzip
+  - docker
